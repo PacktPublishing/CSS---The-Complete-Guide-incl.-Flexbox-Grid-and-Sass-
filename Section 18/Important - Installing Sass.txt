@@ -1,0 +1,4 @@
+Important: Installing Sass
+In the next lecture, we'll install Sass to work with it.
+
+In the lecture, I use ruby-sass for that. This approach might still work but it is recommended to use a different approach - you can find a fitting one for your operating system on this page: https://sass-lang.com/install

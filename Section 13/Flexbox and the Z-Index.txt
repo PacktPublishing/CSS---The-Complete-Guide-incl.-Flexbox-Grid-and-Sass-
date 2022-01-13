@@ -1,0 +1,8 @@
+Flexbox and the Z-Index
+Flexbox and the Z-Index
+In the position module we learned that adding the z-index  to an element only has an effect, if the position  property with a value different from static  was applied to this element.
+
+One exception from this behaviour is flexbox: Applying the z-index  to flex-items (so the elements inside of the flex-container) will change the order of these items even if no position  property was applied.
+
+You will need the z-index  for flex-items in the following assignment, so keep that special behaviour in mind.
+

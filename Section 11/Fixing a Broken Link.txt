@@ -1,0 +1,6 @@
+Fixing a Broken Link
+There's a tiny error in the web page - one link is broken.
+
+On the "Customers" page (=> index.html in the "customers" folder), there is a link which leads into the void. The "Start Hosting" link should point to "../start-hosting/index.html" .
+
+We'll also fix it together in a later video but feel free doing that right now already.
