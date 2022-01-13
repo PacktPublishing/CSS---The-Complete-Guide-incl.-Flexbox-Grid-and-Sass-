@@ -7,7 +7,7 @@ Getting started with CSS might look easy, but there actually is a lot of depth t
 <br/>•	The Advanced Track: You already know the CSS basics, you know what selectors are and how it works, but you want to dive in deeper and learn some advanced features and usages.
 <br/>•	The Expert Track: You got the advanced knowledge, too, but you want to dive into things like Flexbox, CSS Grid, CSS Variables, or Sass. This track is for you.
 <br/>In the course project, we'll build the front end (no back end) of a fictional web hosting company. We'll have a starting screen with different sections, a responsive design with an animated side-drawer, modals and forms, and lot of CSS animations, font styles, and more!
-<br/><b>The assignment problem and solution videos along with the corresponding codes are presented in the respective section folders on this GitHub repo</b>
+<br/><br/><b>NOTE: The assignment problem and solution videos along with the corresponding codes are presented in the respective section folders on this GitHub repo</b>
 
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
